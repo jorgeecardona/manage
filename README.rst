@@ -7,11 +7,7 @@ Command Line Manager + Interactive Shell for Python Projects
 
 .. image:: https://img.shields.io/pypi/v/manage.svg
    :target: https://pypi.python.org/pypi/manage
-
-
 .. image:: https://github.com/jorgeecardona/manage/workflows/Python%20package/badge.svg
-
-
 .. image:: https://readthedocs.org/projects/manage/badge/?version=latest
    :target: https://manage.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
