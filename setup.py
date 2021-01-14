@@ -16,7 +16,7 @@ test_requirements = ['pytest>=2.9.2', 'pytest-xdist>=1.14']
 
 setup(
     name='manage',
-    version='0.1.15-dev0',
+    version='0.1.14',
     description="Command Line Manager + Interactive Shell for Python Projects",
     long_description=readme + '\n\n' + history,
     author="Bruno Rocha",
