@@ -19,10 +19,9 @@ setup(
     version='0.1.14',
     description="Command Line Manager + Interactive Shell for Python Projects",
     long_description=readme + '\n\n' + history,
-    long_description_content_type="text/x-rst",
     author="Bruno Rocha",
     author_email='rochacbruno@gmail.com',
-    url='https://github.com/rochacbruno/manage',
+    url='https://github.com/pthon-manage/manage',
     packages=['manage'],
     package_dir={'manage': 'manage'},
     entry_points={'console_scripts': ['manage=manage.cli:main']},
@@ -39,7 +38,8 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
-        'Programming Language :: Python :: 3.8'
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9'
     ],
     test_suite='tests',
     tests_require=test_requirements,
