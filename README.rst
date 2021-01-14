@@ -8,14 +8,14 @@ Command Line Manager + Interactive Shell for Python Projects
 .. image:: https://img.shields.io/pypi/v/manage.svg
    :target: https://pypi.python.org/pypi/manage
 
-.. image:: https://github.com/actions/hello-world/workflows/Greet%20Everyone/badge.svg
 
-.. image:: https://img.shields.io/travis/rochacbruno/manage.svg
-   :target: https://travis-ci.org/rochacbruno/manage
+.. image:: https://github.com/jorgeecardona/manage/workflows/Python%20package/badge.svg
+
 
 .. image:: https://readthedocs.org/projects/manage/badge/?version=latest
    :target: https://manage.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
+
 
 * Free software: ISC license
 * Documentation: https://manage.readthedocs.io.
