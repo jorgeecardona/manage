@@ -24,7 +24,7 @@ jobs:
         python -m build --sdist --wheel --outdir dist/ .
 
     - uses: pypa/gh-action-pypi-publish@master
-      name: Upload to TestPyPI.
+      name: Upload to PyPI.
       with:
         user: __token__
         password: ${{ secrets.PYPI_API_TOKEN }}
